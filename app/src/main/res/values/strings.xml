@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyStockSelector</string>
+    <string name="nav_import">导入</string>
+    <string name="nav_sync">同步</string>
+    <string name="nav_screener">选股</string>
+    <string name="nav_portfolio">组合</string>
+    <string name="placeholder_import">成分股 CSV 导入（P0 实现）</string>
+    <string name="placeholder_sync">财务数据同步（P2 实现）</string>
+    <string name="placeholder_screener">ROE/PE 选股（P3 实现）</string>
+    <string name="placeholder_portfolio">投资组合管理（P4 实现）</string>
 </resources>
